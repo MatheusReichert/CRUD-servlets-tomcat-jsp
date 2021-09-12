@@ -1,4 +1,4 @@
-<%@page import="br.com.alura.gerenciador.servlet.Empresa"%>
+<%@page import="br.com.aula.gerenciador.servlet.Empresa"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt" %>
 <c:url  value="/alteraEmpresa" var="linkServletEmpresa"/> 
